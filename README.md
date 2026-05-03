@@ -1,4 +1,4 @@
-# 🇫🇷 Version Française
+# 🇫🇷 Version française
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/FabriceFx/gas-gmail-advanced-mime)
 [![Licence](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/FabriceFx/gas-gmail-advanced-mime/blob/main/LICENSE)
@@ -8,14 +8,14 @@
 
 Une solution technique avancée pour Google Apps Script (GAS) permettant de s'affranchir des limitations des services standards (MailApp/GmailApp) en exploitant directement l'API Gmail pour l'envoi de messages au format MIME complexe.
 
-### 🚀 Fonctionnalités clés
+### Fonctionnalités clés
 
 - **Format MIME Avancé** : Permet de construire et d'envoyer des e-mails avec une structure MIME totalement personnalisée.
 - **Contournement des limites** : Outrepasser les restrictions de mise en forme des méthodes natives de Google Apps Script.
-- **Gestion des Pièces Jointes** : Support optimisé pour l'inclusion de fichiers joints multiples.
+- **Gestion des Pièces jointes** : Support optimisé pour l'inclusion de fichiers joints multiples.
 - **Images Inline** : Intégration facilitée d'images directement dans le corps HTML du message.
 
-### 📋 Prérequis & Installation
+### Prérequis & Installation
 
 Pour utiliser ce script, vous devez impérativement activer l'API Gmail dans votre projet Google Apps Script.
 
@@ -54,7 +54,7 @@ function exampleSend() {
 - **Gmail API** : Pour l'envoi de messages bruts encodés en base64.
 - **JavaScript (ES6+)** : Langage de programmation du projet.
 
-### 🤝 Contribution & Licence
+### 🤝 Contribution & licence
 
 Les contributions sont les bienvenues pour améliorer la gestion des en-têtes ou des types de médias. Ce projet est distribué sous licence MIT.
 
